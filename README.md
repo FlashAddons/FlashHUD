@@ -13,7 +13,7 @@ A customizable Hunter toolkit for **WoW Forever**, made by Flash.
 
 
 
-**[Open downloads and full patch notes](https://github.com/Houlberg86/FlashHUD/releases)**
+**[Open downloads and full patch notes](https://github.com/FlashAddons/FlashHUD/releases)**
 
 
 
